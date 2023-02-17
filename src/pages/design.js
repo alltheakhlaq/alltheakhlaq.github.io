@@ -3,7 +3,7 @@ import Layout from "../components/Layout";
 import styled from "styled-components";
 import ReactFullpage from "@fullpage/react-fullpage";
 import { BACKGROUND, GREEN } from "../assets/css/color";
-// import { SEO } from "../components/seo";
+import { SEO } from "../components/seo";
 
 import GD1 from "../assets/images/card1.jpg";
 import GD2 from "../assets/images/card2.jpg";
@@ -239,4 +239,4 @@ const DESIGN = styled.section`
   }
 `;
 
-// export const Head = () => <SEO title="Design Portfolio | Sara Akhlaq" />;
+export const Head = () => <SEO title="Design Portfolio | Sara Akhlaq" />;

@@ -1,7 +1,7 @@
 import React from "react";
 import Layout from "../components/Layout";
 import styled from "styled-components";
-// import { SEO } from "../components/seo";
+import { SEO } from "../components/seo";
 import ME from "../assets/images/me.jpg";
 
 const aboutme = () => {
@@ -75,4 +75,4 @@ const ABOUT = styled.section`
 
 export default aboutme;
 
-// export const Head = () => <SEO title="About me | Sara Akhlaq" />;
+export const Head = () => <SEO title="About me | Sara Akhlaq" />;

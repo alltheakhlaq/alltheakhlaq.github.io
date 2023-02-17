@@ -1,7 +1,7 @@
 import React from "react";
 import Layout from "../components/Layout";
 import styled from "styled-components";
-// import { SEO } from "../components/seo";
+import { SEO } from "../components/seo";
 
 import { BROWN, BLACK, PINK } from "../assets/css/color";
 
@@ -53,4 +53,4 @@ const CONTACT = styled.section`
 
 export default contact;
 
-// export const Head = () => <SEO title="Contact | Sara Akhlaq" />;
+export const Head = () => <SEO title="Contact | Sara Akhlaq" />;

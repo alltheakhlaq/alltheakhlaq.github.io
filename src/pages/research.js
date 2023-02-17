@@ -4,7 +4,7 @@ import styled from "styled-components";
 import RecentActivities from "../components/RecentActivities";
 import { BACKGROUND } from "../assets/css/color";
 import { Link } from "@reach/router";
-// import { SEO } from "../components/seo";
+import { SEO } from "../components/seo";
 
 const Research = () => {
   return (
@@ -197,4 +197,4 @@ const RESEARCH = styled.section`
   padding-bottom: 50px;
 `;
 
-// export const Head = () => <SEO title="Research | Sara Akhlaq" />;
+export const Head = () => <SEO title="Research | Sara Akhlaq" />;
