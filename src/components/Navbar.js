@@ -51,6 +51,7 @@ const Navbar = () => {
 };
 
 const Nav = styled.nav`
+  padding-top: 20px;
   z-index: 200;
   background-color: ${BACKGROUND};
   position: inherit;

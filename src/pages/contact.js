@@ -42,7 +42,7 @@ const contact = () => {
 const CONTACT = styled.section`
   /* background-color: ${BROWN};
   padding: 80px; */
-  padding-top: 100px;
+  padding-top: 30px;
   margin-left: 100px;
   margin-right: 400px;
 

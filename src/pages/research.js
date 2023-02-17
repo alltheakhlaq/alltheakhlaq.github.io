@@ -192,6 +192,7 @@ export default Research;
 
 const RESEARCH = styled.section`
   background-color: ${BACKGROUND};
+  padding-top: 30px;
   padding-left: 100px;
   padding-right: 100px;
   padding-bottom: 50px;

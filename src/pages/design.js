@@ -39,10 +39,11 @@ const Design = () => {
               <ReactFullpage.Wrapper>
                 <div className="section">
                   <div class="slide">
-                    <h1>Design Skills</h1>{" "}
+                    <h2>Design Skills</h2>{" "}
                     <p>
-                      Web design and development, Graphic Design, 3D modeling
-                      and visualisation of cultural heritage in XR.
+                      I am experienced in web design and development, Graphic
+                      Design, and 3D modeling and visualisation of cultural
+                      heritage in XR.
                     </p>
                     <hr></hr>
                     <h1>
