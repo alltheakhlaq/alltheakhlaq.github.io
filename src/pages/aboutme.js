@@ -69,6 +69,8 @@ const aboutme = () => {
 const ABOUT = styled.section`
   padding-top: 100px;
   padding-bottom: 100px;
+  padding-right: 100px;
+  padding-left: 100px;
   margin-left: 100px;
   margin-right: 400px;
 `;
