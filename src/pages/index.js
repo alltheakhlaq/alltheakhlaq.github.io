@@ -4,7 +4,7 @@ import { Tooltip } from "react-tooltip";
 import "react-tooltip/dist/react-tooltip.css";
 import { Link } from "gatsby";
 import styled, { css } from "styled-components";
-// import { SEO } from "../components/seo";
+import { SEO } from "../components/seo";
 import { BACKGROUND, DARK, PINK, GREEN } from "../assets/css/color";
 import { useLocation } from "@reach/router";
 import RecentActivities from "../components/RecentActivities";
@@ -96,4 +96,4 @@ const StyledLink = styled(Link)`
 `;
 export default Index;
 
-// export const Head = () => <SEO title="Homepage | Sara Akhlaq" />;
+export const Head = () => <SEO title="Homepage | Sara Akhlaq" />;
