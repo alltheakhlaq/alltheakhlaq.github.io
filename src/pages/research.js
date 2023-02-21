@@ -101,6 +101,15 @@ const Research = () => {
         <h1 id="t&l">Talks & Lectures</h1>
         <p>
           {" "}
+          <b>Panel (in proceeding)</b> Digitalisierung kulturellen Erbes und
+          postkoloniale Perspektiven during&nbsp;
+          <a href="https://dhd2023.dig-hum.de/page/programmubersich">
+            DhD 2023
+          </a>
+          .
+        </p>
+        <p>
+          {" "}
           <b>Conference Talk:</b> ‘Data Montage: Towards Coherence in Multimodal
           Data Representation’ at &nbsp;
           <a href="https://2022.dhbenelux.org/">DH Benelux 2022</a>.

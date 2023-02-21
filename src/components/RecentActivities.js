@@ -11,6 +11,18 @@ const RecentActivities = () => {
         <table>
           <tr>
             <th>
+              <b> 17.03.2023 </b>
+            </th>
+            <td>
+              (In proceeding) Panel on Digitalisierung kulturellen Erbes und
+              postkoloniale Perspektiven during&nbsp;
+              <a href="https://dhd2023.dig-hum.de/page/programmubersich">
+                DhD 2023
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <th>
               <b> 13.02.2023 </b>
             </th>
             <td>
@@ -22,6 +34,8 @@ const RecentActivities = () => {
               Prototyping' at Linköping University.
             </td>
           </tr>
+        </table>
+        <table>
           <tr>
             <th>
               <b> 31.01.2023 </b>
@@ -31,8 +45,6 @@ const RecentActivities = () => {
               explore different forms of labour that go into the project.
             </td>
           </tr>
-        </table>
-        <table>
           <tr>
             <th>
               <b> 10.01.2023- 13.01.2023 </b>
