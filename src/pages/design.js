@@ -104,11 +104,20 @@ const Design = () => {
                       I worked on Kollisonen as a research associate at Urban
                       Complexity Lab at Fachhochcshule Potsdam. <br></br> Along
                       with assiting with database managment, I also contributed
-                      to Kollsionen with my web design skills
+                      to Kollsionen with my web design skills. I did webdesign
+                      for the data visualisation website as well as the project
+                      website.
                     </p>
                     <p>
                       <a href="https://uclab-potsdam.github.io/kollisionen/">
-                        Explore Data Visualisation of Kolliosion project here
+                        Explore Data Visualisation website of Kolliosion project
+                        here
+                      </a>
+                    </p>
+                    <p>
+                      <a href="https://collisions-eisensteinshouse.projekte-filmuni.de">
+                        and click here to look at the project website that I
+                        designed
                       </a>
                     </p>
                   </div>
