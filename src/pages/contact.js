@@ -2,6 +2,7 @@ import React from "react";
 import Layout from "../components/Layout";
 import styled from "styled-components";
 import { SEO } from "../components/seo";
+import { device } from "../assets/css/device";
 
 import { BROWN, BLACK, PINK } from "../assets/css/color";
 
@@ -42,12 +43,22 @@ const contact = () => {
 const CONTACT = styled.section`
   /* background-color: ${BROWN};
   padding: 80px; */
-  padding-top: 30px;
-  margin-left: 100px;
-  margin-right: 400px;
 
   & p {
     background: ${BLACK};
+  }
+
+  @media only screen and (min-width: 701px) {
+    /* padding-left: 100px;
+    padding-right: 100px; */
+    padding-top: 30px;
+    margin-left: 100px;
+    margin-right: 400px;
+  }
+  @media only screen and (max-width: 700px) {
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
   }
 `;
 

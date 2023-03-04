@@ -60,7 +60,13 @@ const Nav = styled.nav`
 const Section = styled.section`
   background-color: ${BACKGROUND};
   text-align: center;
-  font-size: 20px;
+  @media only screen and (min-width: 701px) {
+    font-size: 20px;
+  }
+
+  @media only screen and (max-width: 700px) {
+    font-size: 15px;
+  }
 
   table {
     /* display: inline-block; */
@@ -86,8 +92,14 @@ export const StyledLink = styled(Link)`
   ${props =>
     props.pathname === props.to
       ? css`
-          font-size: 40px;
           text-decoration: underline wavy;
+          @media only screen and (min-width: 701px) {
+            font-size: 40px;
+          }
+
+          @media only screen and (max-width: 700px) {
+            font-size: 30px;
+          }
         `
       : css`
           color: ${DARK};

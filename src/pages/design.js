@@ -244,6 +244,19 @@ export default Design;
 const DESIGN = styled.section`
   background-color: ${BACKGROUND};
 
+  @media only screen and (min-width: 701px) {
+    .section {
+      padding-left: 100px;
+      padding-right: 100px;
+    }
+  }
+  @media only screen and (max-width: 700px) {
+    .section {
+      padding-left: 30px;
+      padding-right: 30px;
+    }
+  }
+
   & h1 {
     text-align: center;
   }

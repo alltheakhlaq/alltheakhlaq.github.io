@@ -202,9 +202,16 @@ export default Research;
 const RESEARCH = styled.section`
   background-color: ${BACKGROUND};
   padding-top: 30px;
-  padding-left: 100px;
-  padding-right: 100px;
   padding-bottom: 50px;
+
+  @media only screen and (min-width: 701px) {
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+  @media only screen and (max-width: 700px) {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
 `;
 
 export const Head = () => <SEO title="Research | Sara Akhlaq" />;

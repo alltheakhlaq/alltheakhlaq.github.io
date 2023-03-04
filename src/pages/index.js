@@ -8,6 +8,7 @@ import { SEO } from "../components/seo";
 import { BACKGROUND, DARK, PINK, GREEN } from "../assets/css/color";
 import { useLocation } from "@reach/router";
 import RecentActivities from "../components/RecentActivities";
+import { device } from "../assets/css/device";
 
 const Index = () => {
   const location = useLocation();
@@ -57,8 +58,15 @@ const Index = () => {
 
 const INTRO = styled.section`
   background-color: ${BACKGROUND};
-  padding-left: 100px;
-  padding-right: 100px;
+
+  @media only screen and (min-width: 701px) {
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+  @media only screen and (max-width: 700px) {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
 `;
 
 const StyledTooltip = styled(Tooltip)`
