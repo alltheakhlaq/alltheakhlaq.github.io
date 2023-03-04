@@ -11,59 +11,80 @@ const RecentActivities = () => {
         <table>
           <tr>
             <th>
-              <b> 17.03.2023 </b>
+              <p>
+                <b> 17.03.2023 </b>
+              </p>
             </th>
             <td>
-              (In proceeding) Panel on Digitalisierung kulturellen Erbes und
-              postkoloniale Perspektiven during&nbsp;
-              <a href="https://dhd2023.dig-hum.de/page/programmubersich">
-                DhD 2023
-              </a>
+              <p>
+                (In proceeding) Panel on Digitalisierung kulturellen Erbes und
+                postkoloniale Perspektiven during&nbsp;
+                <a href="https://dhd2023.dig-hum.de/page/programmubersich">
+                  DhD 2023
+                </a>
+              </p>
             </td>
           </tr>
           <tr>
             <th>
-              <b> 13.02.2023 </b>
+              <p>
+                <b> 13.02.2023 </b>
+              </p>
             </th>
             <td>
-              Lecture/Workshop on&nbsp;
-              <a href="https://journal.culanth.org/index.php/ca/article/view/ca29.2.09">
-                Writing the Implosion
-              </a>
-              &nbsp;during the course 'Physical Interaction Design and
-              Prototyping' at Linköping University.
+              <p>
+                Lecture/Workshop on&nbsp;
+                <a href="https://journal.culanth.org/index.php/ca/article/view/ca29.2.09">
+                  Writing the Implosion
+                </a>
+                &nbsp;during the course 'Physical Interaction Design and
+                Prototyping' at Linköping University.
+              </p>
             </td>
           </tr>
         </table>
         <table>
           <tr>
             <th>
-              <b> 31.01.2023 </b>
+              <p>
+                {" "}
+                <b> 31.01.2023 </b>
+              </p>
+            </th>
+            <p>
+              <td>
+                Workshop with Lauren Klein's project team <b>Data by Design</b>{" "}
+                to explore different forms of labour that go into the project.
+              </td>
+            </p>
+          </tr>
+          <tr>
+            <th>
+              <p>
+                <b> 10.01.2023- 13.01.2023 </b>
+              </p>
             </th>
             <td>
-              Workshop with Lauren Klein's project team <b>Data by Design</b> to
-              explore different forms of labour that go into the project.
+              <p>
+                Student Volnteer for the PC meeting during&nbsp;
+                <a href="https://chi2023.acm.org/">
+                  ACM CHI Conference on Human Factors in Computing Systems 2023
+                </a>
+              </p>
             </td>
           </tr>
           <tr>
             <th>
-              <b> 10.01.2023- 13.01.2023 </b>
+              <p>
+                <b> 05.12.2022 </b>
+              </p>
             </th>
             <td>
-              Student Volnteer for the PC meeting during&nbsp;
-              <a href="https://chi2023.acm.org/">
-                ACM CHI Conference on Human Factors in Computing Systems 2023
-              </a>
-            </td>
-          </tr>
-          <tr>
-            <th>
-              <b> 05.12.2022 </b>
-            </th>
-            <td>
-              Carried out a workshop focusing on exploring hidden labor in the
-              open source software project&nbsp;
-              <a href="https://www.openspaceproject.com/">OpenSpace</a>
+              <p>
+                Carried out a workshop focusing on exploring hidden labor in the
+                open source software project&nbsp;
+                <a href="https://www.openspaceproject.com/">OpenSpace</a>
+              </p>
             </td>
           </tr>
         </table>
@@ -75,19 +96,48 @@ const RecentActivities = () => {
 const TABLE = styled.section`
   background-color: ${BROWN};
   font-family: "IBM Plex Mono", monospace;
-  padding: 20px;
+
+  td {
+    color: ${DARK};
+  }
+  th {
+    color: ${DARK};
+  }
 
   tr {
-    padding: 100px;
     border: 1px solid black;
   }
 
-  th {
-    color: ${DARK};
-    width: 200px;
+  @media only screen and (min-width: 701px) {
+    padding: 15px;
+
+    table {
+      padding-left: 90px;
+      padding-right: 90px;
+    }
+
+    tr {
+      padding: 100px;
+      border: 1px solid black;
+    }
+
+    th {
+      width: 180px;
+    }
   }
-  td {
-    color: ${DARK};
+
+  @media only screen and (max-width: 700px) {
+    padding: 10px;
+
+    tr {
+      padding: 10px;
+      border: 1px solid black;
+    }
+
+    th {
+      width: 50px;
+      padding-right: 5px;
+    }
   }
 `;
 

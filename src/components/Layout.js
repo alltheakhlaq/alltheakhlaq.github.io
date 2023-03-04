@@ -16,6 +16,7 @@ const GlobalStyle = createGlobalStyle`
 export const MainLayout = styled.div`
   height: 100%;
   max-width: 100%;
+  margin-bottom: 50px;
   /* This was needed at some point but probably not any more */
   /* position: absolute;
   top: 0;

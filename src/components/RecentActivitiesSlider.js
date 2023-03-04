@@ -39,19 +39,35 @@ const arrow = css`
   z-index: 1;
   top: 50%;
   transform: translateY(-50%);
-  width: 48px;
-  height: 48px;
   border-radius: 24px;
   background-color: white;
   border: 1px solid #ddd;
+  @media only screen and (min-width: 701px) {
+    width: 48px;
+    height: 48px;
+  }
+  @media only screen and (max-width: 700px) {
+    width: 20px;
+    height: 20px;
+  }
 `;
 const LeftArrow = styled.button`
   ${arrow}
-  left: 24px;
+  @media only screen and (min-width: 701px) {
+    left: 24px;
+  }
+  @media only screen and (max-width: 700px) {
+    left: -20px;
+  }
 `;
 const RightArrow = styled.button`
   ${arrow}
-  right: 24px;
+  @media only screen and (min-width: 701px) {
+    right: 24px;
+  }
+  @media only screen and (max-width: 700px) {
+    right: -20px;
+  }
 `;
 
 const RecentActivitiesSlider = props => {
@@ -79,7 +95,8 @@ const RecentActivitiesSlider = props => {
           <Content style={{ transform: `translateX(-${currentIndex * 100}%)` }}>
             {children.map(child => (
               <div>
-                <div style={{ padding: "0 120px" }}>{child}</div>
+                {/* <div style={{ padding: "0 120px" }}>{child}</div> */}
+                <div className="slider">{child}</div>
               </div>
             ))}
           </Content>

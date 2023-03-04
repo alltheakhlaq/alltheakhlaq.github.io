@@ -12,7 +12,6 @@ const Research = () => {
       <RESEARCH>
         <RecentActivities />
         <hr></hr>
-
         <p>
           Jump to:&nbsp;
           <Link to="/research#xp">Work Experience|</Link>
