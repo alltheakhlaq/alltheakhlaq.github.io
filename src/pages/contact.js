@@ -13,10 +13,11 @@ const contact = () => {
         <h2>I'm happy to talk more with you!</h2>
         <hr></hr>
         <p>
-          I offer a wide variety of interests such as academic research on
-          different aspects of application of intersectional feminism principles
-          to digital humanities topics, webdesign, graphic design and front-end
-          web development.
+          I have a wide variety of interests including but not limited to
+          academic research on application of intersectional feminist principles
+          to different topic in digital humanities. I also offer design and
+          development skills in webdesign, graphic design and front-end web
+          development.
         </p>
         <p>
           If you feel we could work together or if you need any kind of support
