@@ -54,7 +54,7 @@ const CONTACT = styled.section`
     padding-right: 100px; */
     padding-top: 30px;
     margin-left: 100px;
-    margin-right: 400px;
+    margin-right: 100px;
   }
   @media only screen and (max-width: 700px) {
     padding-top: 10px;

@@ -15,7 +15,7 @@ const aboutme = () => {
           Hey! I'm Sara Akhlaq. I am a researcher and with my research I have
           always tried to engage in academic activisim. I have also always
           employed my web and graphic design skills in my academic work as well
-          and that's why I believe I qualify as a researcher and designer.
+          - that's why I believe I qualify as a researcher and a designer.
         </p>
         <p>
           I did masters in&nbsp;
@@ -25,10 +25,11 @@ const aboutme = () => {
           &nbsp;at BTU Cottbus-Senftenberg. During my masters and my masters
           thesis, I focused on eithcal dimensions of digital preservation of
           cultural heritage. From then onwards, I have focused on colonial,
-          racial and gendered that get emtombed into digital collections when
-          they go unaddressed in the process of digitsation. With my research I
-          want to employ data visusalisation as a way of addressing these biases
-          and challenge the power differentials in GLAM collections.
+          racial and gendered biases that get emtombed into digital collections
+          when they go unaddressed in the process of digitsation. With my
+          research I want to employ data visusalisation as a way of addressing
+          these biases and challenge the power differentials in these digital
+          GLAM collections.
         </p>
         <p>
           Currently, I am working as a PhD student in&nbsp;
@@ -67,10 +68,14 @@ const aboutme = () => {
 };
 
 const ABOUT = styled.section`
-  padding-top: 100px;
-  padding-bottom: 100px;
-  padding-right: 100px;
-  padding-left: 100px;
+  @media only screen and (min-width: 701px) {
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+  @media only screen and (max-width: 700px) {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
 `;
 
 export default aboutme;
