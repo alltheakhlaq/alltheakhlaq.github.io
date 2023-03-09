@@ -31,8 +31,8 @@ const Research = () => {
         <hr></hr>
         <h1 id="xp">Work Experience</h1>
         <p>
-          <b>PhD Researcher </b>
-          <br></br> August 2022 - Present <br></br>Linköping University
+          <b>Researcher </b>
+          <br></br> August 2022 - April 2023 <br></br>Linköping University
           <br></br>
           Norrköping, Sweden
         </p>

@@ -12,6 +12,22 @@ const RecentActivities = () => {
           <tr>
             <th>
               <p>
+                <b> 17.04.2023 - 21.04.2023 </b>
+              </p>
+            </th>
+            <td>
+              <p>
+                (In proceeding) Partcipation in&nbsp;
+                <a href="https://www.mkg-hamburg.de/en/neo-lab">
+                  Data Exploration Sprint
+                </a>
+                at Museum für Kunst und Gewerbe Hamburg
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <th>
+              <p>
                 <b> 17.03.2023 </b>
               </p>
             </th>
