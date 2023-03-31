@@ -21,7 +21,7 @@ const RecentActivities = () => {
                 <a href="https://www.mkg-hamburg.de/en/neo-lab">
                   Data Exploration Sprint
                 </a>
-                at Museum für Kunst und Gewerbe Hamburg
+                &nbsp;at Museum für Kunst und Gewerbe Hamburg
               </p>
             </td>
           </tr>
@@ -33,8 +33,8 @@ const RecentActivities = () => {
             </th>
             <td>
               <p>
-                (In proceeding) Panel on Digitalisierung kulturellen Erbes und
-                postkoloniale Perspektiven during&nbsp;
+                Panel on Digitalisierung kulturellen Erbes und postkoloniale
+                Perspektiven during&nbsp;
                 <a href="https://dhd2023.dig-hum.de/page/programmubersich">
                   DhD 2023
                 </a>
