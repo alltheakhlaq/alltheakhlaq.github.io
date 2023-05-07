@@ -9,6 +9,21 @@ const RecentActivities = () => {
       <h2>Recent activities</h2>
       <RecentActivitiesSlider>
         <table>
+        <tr>
+            <th>
+              <p>
+                <b> 05.10.2023 </b>
+              </p>
+            </th>
+            <td>
+              <p>
+                (In proceeding) Keynote at&nbsp;
+                <a href="https://forge23.uni-tuebingen.de/">
+                Forschungsdaten in den Geisteswissenschaften (FORGE) 2023
+                </a>.
+              </p>
+            </td>
+          </tr>
           <tr>
             <th>
               <p>
@@ -17,11 +32,11 @@ const RecentActivities = () => {
             </th>
             <td>
               <p>
-                (In proceeding) Partcipation in&nbsp;
+                Partcipation in&nbsp;
                 <a href="https://www.mkg-hamburg.de/en/neo-lab">
                   Data Exploration Sprint
                 </a>
-                &nbsp;at Museum für Kunst und Gewerbe Hamburg
+                &nbsp;at Museum für Kunst und Gewerbe Hamburg.
               </p>
             </td>
           </tr>
@@ -36,7 +51,7 @@ const RecentActivities = () => {
                 Panel on Digitalisierung kulturellen Erbes und postkoloniale
                 Perspektiven during&nbsp;
                 <a href="https://dhd2023.dig-hum.de/page/programmubersich">
-                  DhD 2023
+                  DhD 2023.
                 </a>
               </p>
             </td>
@@ -82,7 +97,7 @@ const RecentActivities = () => {
             </th>
             <td>
               <p>
-                Student Volnteer for the PC meeting during&nbsp;
+                Student Volunteer for the PC meeting during&nbsp;
                 <a href="https://chi2023.acm.org/">
                   ACM CHI Conference on Human Factors in Computing Systems 2023
                 </a>

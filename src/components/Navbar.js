@@ -3,7 +3,7 @@ import { Link } from "gatsby";
 import styled, { css } from "styled-components";
 import { Fonts } from "../assets/css/style";
 
-import { BACKGROUND, BROWN, DARK, PINK, GREEN } from "../assets/css/color";
+import { BACKGROUND, DARK, PINK } from "../assets/css/color";
 import { useLocation } from "@reach/router";
 
 const Navbar = () => {
