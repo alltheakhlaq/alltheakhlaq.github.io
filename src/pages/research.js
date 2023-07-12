@@ -31,6 +31,12 @@ const Research = () => {
         <hr></hr>
         <h1 id="xp">Work Experience</h1>
         <p>
+          <b>PhD student </b>
+          <br></br> Since April 2023 <br></br>Chair of Humanities Data Science and Methodology, TU Darmstadt 
+          <br></br>
+          Darmstadt, Germany
+        </p>
+        <p>
           <b>Researcher </b>
           <br></br> August 2022 - April 2023 <br></br>Linköping University
           <br></br>

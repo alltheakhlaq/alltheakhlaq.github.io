@@ -36,9 +36,8 @@ const Index = () => {
         </h2>
         <hr></hr>
         <p>
-          My research lies at the intersection of digital humanities and data
-          visualisation. I’ve been trying to address biases in digital cultural
-          heritage data by inspecting it through an intersectional feminist
+          I'm currently pursuing a PhD at the Chair of Humanities Data Science and Methodology at TU Darmstadt. My research lies at the intersection of critical digital cultural heritage and data
+          visualisation. I’ve been trying to address biases in museum collection data by inspecting it through an intersectional feminist and anti-colonial
           lens.
         </p>{" "}
         <p>
