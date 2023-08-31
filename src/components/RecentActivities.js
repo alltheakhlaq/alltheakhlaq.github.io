@@ -27,6 +27,21 @@ const RecentActivities = () => {
           <tr>
             <th>
               <p>
+                <b>06.09.2023</b>
+              </p>
+            </th>
+            <td>
+              <p>
+                Presentation titled <b>'Intersectional Feminist Perspectives on Digital Museum Collections through Counterdata Visualisations'</b> at&nbsp;
+                <a href="https://hdsm.hypotheses.org/1104">
+                Connecting, co-designing and engaging with digital collections and infrastructures: challenges and case studies
+                </a>.
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <th>
+              <p>
                 <b> 17.04.2023 - 21.04.2023 </b>
               </p>
             </th>
@@ -48,7 +63,7 @@ const RecentActivities = () => {
             </th>
             <td>
               <p>
-                Panel on Digitalisierung kulturellen Erbes und postkoloniale
+                Participation in panel on Digitalisierung kulturellen Erbes und postkoloniale
                 Perspektiven during&nbsp;
                 <a href="https://dhd2023.dig-hum.de/page/programmubersich">
                   DhD 2023.
@@ -56,7 +71,10 @@ const RecentActivities = () => {
               </p>
             </td>
           </tr>
-          <tr>
+        
+        </table>
+        <table>
+        <tr>
             <th>
               <p>
                 <b> 13.02.2023 </b>
@@ -73,8 +91,6 @@ const RecentActivities = () => {
               </p>
             </td>
           </tr>
-        </table>
-        <table>
           <tr>
             <th>
               <p>
@@ -101,20 +117,6 @@ const RecentActivities = () => {
                 <a href="https://chi2023.acm.org/">
                   ACM CHI Conference on Human Factors in Computing Systems 2023
                 </a>
-              </p>
-            </td>
-          </tr>
-          <tr>
-            <th>
-              <p>
-                <b> 05.12.2022 </b>
-              </p>
-            </th>
-            <td>
-              <p>
-                Carried out a workshop focusing on exploring hidden labor in the
-                open source software project&nbsp;
-                <a href="https://www.openspaceproject.com/">OpenSpace</a>
               </p>
             </td>
           </tr>

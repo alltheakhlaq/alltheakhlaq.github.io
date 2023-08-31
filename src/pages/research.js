@@ -17,6 +17,7 @@ const Research = () => {
           <Link to="/research#xp">Work Experience|</Link>
           <Link to="/research#pub">Publications|</Link>
           <Link to="/research#t&l">Talks & Lectures|</Link>
+          <Link to="/research#workshops">Workshops|</Link>
           <Link to="/research#edu">Education|</Link>
           <Link to="/research#lang">Languages|</Link>
         </p>
@@ -105,8 +106,14 @@ const Research = () => {
         <hr></hr>
         <h1 id="t&l">Talks & Lectures</h1>
         <p>
+        <b>Conference Talk: </b> 'Intersectional Feminist Perspectives on Digital Museum Collections through Counterdata Visualisations' at&nbsp;
+                <a href="https://hdsm.hypotheses.org/1104">
+                Connecting, co-designing and engaging with digital collections and infrastructures: challenges and case studies
+                </a>.
+              </p>
+        <p>
           {" "}
-          <b>Panel (in proceeding)</b> Digitalisierung kulturellen Erbes und
+          <b>Panel: </b> Digitalisierung kulturellen Erbes und
           postkoloniale Perspektiven during&nbsp;
           <a href="https://dhd2023.dig-hum.de/page/programmubersich">
             DhD 2023
@@ -133,7 +140,7 @@ const Research = () => {
           .
         </p>
         <p>
-          <b>Conference Talk: </b> ‘Women in Data Visualisation’ in the panel
+          <b>Panel: </b> ‘Women in Data Visualisation’ in the panel
           Sister of Code during &nbsp;
           <a href=" https://s2021.siggraph.org/presenter/?uid=33877059233152786721">
             SIGGRAPH 2021
@@ -145,11 +152,6 @@ const Research = () => {
           at Fachhochschule Potsdam for the Zoophonie course.
         </p>
         <p>
-          <b>Workshop: </b> Workshop on making Data Visualisation Coherent
-          during the project week at Fachhochschule Potsdam for the Zoophonie
-          course.
-        </p>
-        <p>
           <b>Lecture: </b> Practicing Data Feminism: Data biases and Data Ethics
           during &nbsp;
           <a href=" https://uclab.fh-potsdam.de/visoa/">
@@ -157,7 +159,19 @@ const Research = () => {
           </a>
           .
         </p>
+        <hr></hr>
+        <h1 id="workshops">Workshops</h1>
         <p>
+        <p>
+        <b>Workshop (05.12.2022): </b> Carried out a workshop focusing on exploring hidden labor in the
+                open source software project&nbsp;
+                <a href="https://www.openspaceproject.com/">OpenSpace</a>.
+              </p>
+        <p>
+          <b>Workshop: </b> Workshop on making Data Visualisation Coherent
+          during the project week at Fachhochschule Potsdam for the Zoophonie
+          course.
+        </p>
           <b>Workshop: </b> ‘Let's visit museum collections! Chapter II’ during
           &nbsp;
           <a href="https://vdhd2021.hypotheses.org">
@@ -192,8 +206,7 @@ const Research = () => {
         <hr></hr>
         <h1 id="lang">Languages</h1>
         <p>
-          Urdu (native level), English (fluent), German (advanced level), Hindi
-          (spoken only).
+          Urdu (native level), English (fluent), German (advanced level).
         </p>
         <hr></hr>
         {/* <h1>Skills </h1> */}
