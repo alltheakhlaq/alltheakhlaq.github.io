@@ -17,7 +17,7 @@ const RecentActivities = () => {
             </th>
             <td>
               <p>
-                (In proceeding) Keynote at&nbsp;
+                Keynote at&nbsp;
                 <a href="https://forge23.uni-tuebingen.de/">
                 Forschungsdaten in den Geisteswissenschaften (FORGE) 2023
                 </a>.

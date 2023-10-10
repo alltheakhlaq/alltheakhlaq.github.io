@@ -32,6 +32,12 @@ const Research = () => {
         <hr></hr>
         <h1 id="xp">Work Experience</h1>
         <p>
+          <b>Wissenschaftlicher Mitarbeiter (Research Associate)</b>
+          <br></br> Since October 2023 <br></br>Museum für Naturkunde, Berlin 
+          <br></br>
+          Berlin, Germany
+        </p>
+        <p>
           <b>PhD student </b>
           <br></br> Since April 2023 <br></br>Chair of Humanities Data Science and Methodology, TU Darmstadt 
           <br></br>
