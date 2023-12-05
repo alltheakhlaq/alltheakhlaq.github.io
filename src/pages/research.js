@@ -45,7 +45,7 @@ const Research = () => {
           Darmstadt, Germany
         </p>
         <hr></hr>
-        <h1 id="xp">Past Work Experience</h1>
+        <h1 id="xp">Past Research Experience</h1>
         <p>
           <b>Researcher </b>
           <br></br> August 2022 - April 2023 <br></br>Linköping University
@@ -122,6 +122,12 @@ const Research = () => {
           &nbsp;at the division Humanities Data Science and Technology at TU
           Darmstadt
         </p>
+        <p>
+        <b>Keynote: </b> Titled 'Intersectional Feminist and Anti-colonial Perspectives on Museum Data' at&nbsp;
+                <a href="https://forge23.uni-tuebingen.de/">
+                Forschungsdaten in den Geisteswissenschaften (FORGE) 2023
+                </a>.
+              </p>
         <p>
           {" "}
           <b>Panel: </b> Digitalisierung kulturellen Erbes und postkoloniale
