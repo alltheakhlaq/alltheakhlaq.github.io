@@ -14,7 +14,7 @@ const Research = () => {
         <hr></hr>
         <p>
           Jump to:&nbsp;
-          <Link to="/research#xp">Work Experience|</Link>
+          <Link to="/research#xp">Past Research Experience|</Link>
           <Link to="/research#pub">Publications|</Link>
           <Link to="/research#t&l">Talks & Lectures|</Link>
           <Link to="/research#workshops">Workshops|</Link>
@@ -30,19 +30,22 @@ const Research = () => {
           </p>
         </span>
         <hr></hr>
-        <h1 id="xp">Work Experience</h1>
+        <h1>Currently</h1>
         <p>
           <b>Wissenschaftlicher Mitarbeiter (Research Associate)</b>
-          <br></br> Since October 2023 <br></br>Museum für Naturkunde, Berlin 
+          <br></br> Since October 2023 <br></br>Museum für Naturkunde, Berlin
           <br></br>
           Berlin, Germany
         </p>
         <p>
           <b>PhD student </b>
-          <br></br> Since April 2023 <br></br>Chair of Humanities Data Science and Methodology, TU Darmstadt 
+          <br></br> Since April 2023 <br></br>Chair of Humanities Data Science
+          and Methodology, TU Darmstadt
           <br></br>
           Darmstadt, Germany
         </p>
+        <hr></hr>
+        <h1 id="xp">Past Work Experience</h1>
         <p>
           <b>Researcher </b>
           <br></br> August 2022 - April 2023 <br></br>Linköping University
@@ -112,15 +115,17 @@ const Research = () => {
         <hr></hr>
         <h1 id="t&l">Talks & Lectures</h1>
         <p>
-        <b>Conference Talk: </b> 'Intersectional Feminist Perspectives on Digital Museum Collections through Counterdata Visualisations' at&nbsp;
-                <a href="https://hdsm.hypotheses.org/1104">
-                Connecting, co-designing and engaging with digital collections and infrastructures: challenges and case studies
-                </a>.
-              </p>
+          <b>Lecture: </b> During&nbsp;
+          <a href="https://hdsm.hypotheses.org/1739">
+            Advanced Seminar Modern History/History of Technology
+          </a>
+          &nbsp;at the division Humanities Data Science and Technology at TU
+          Darmstadt
+        </p>
         <p>
           {" "}
-          <b>Panel: </b> Digitalisierung kulturellen Erbes und
-          postkoloniale Perspektiven during&nbsp;
+          <b>Panel: </b> Digitalisierung kulturellen Erbes und postkoloniale
+          Perspektiven during&nbsp;
           <a href="https://dhd2023.dig-hum.de/page/programmubersich">
             DhD 2023
           </a>
@@ -146,8 +151,8 @@ const Research = () => {
           .
         </p>
         <p>
-          <b>Panel: </b> ‘Women in Data Visualisation’ in the panel
-          Sister of Code during &nbsp;
+          <b>Panel: </b> ‘Women in Data Visualisation’ in the panel Sister of
+          Code during &nbsp;
           <a href=" https://s2021.siggraph.org/presenter/?uid=33877059233152786721">
             SIGGRAPH 2021
           </a>
@@ -168,16 +173,26 @@ const Research = () => {
         <hr></hr>
         <h1 id="workshops">Workshops</h1>
         <p>
+          <b>Workshop (29.11.2023): </b> Workshop on building bridges between
+          data visualisation and VR/3D experiences at the event &nbsp;
+          <a href="https://www.virtuelle-lebenswelten.de/blog-post/how-to-represent-the-virtual-29-11-2023">
+            How to Represent the Virtual?
+          </a>
+          &nbsp;at the division SFB 1567 Virtuelle Lebenswelten at
+          Ruhr-Universität Bochum
+        </p>
         <p>
-        <b>Workshop (05.12.2022): </b> Carried out a workshop focusing on exploring hidden labor in the
-                open source software project&nbsp;
-                <a href="https://www.openspaceproject.com/">OpenSpace</a>.
-              </p>
+          <b>Workshop (05.12.2022): </b> Carried out a workshop focusing on
+          exploring hidden labor in the open source software project&nbsp;
+          <a href="https://www.openspaceproject.com/">OpenSpace</a>.
+        </p>
         <p>
           <b>Workshop: </b> Workshop on making Data Visualisation Coherent
           during the project week at Fachhochschule Potsdam for the Zoophonie
           course.
         </p>
+        <p>
+          {" "}
           <b>Workshop: </b> ‘Let's visit museum collections! Chapter II’ during
           &nbsp;
           <a href="https://vdhd2021.hypotheses.org">
@@ -211,9 +226,7 @@ const Research = () => {
         </p>
         <hr></hr>
         <h1 id="lang">Languages</h1>
-        <p>
-          Urdu (native level), English (fluent), German (advanced level).
-        </p>
+        <p>Urdu (native level), English (fluent), German (advanced level).</p>
         <hr></hr>
         {/* <h1>Skills </h1> */}
       </RESEARCH>

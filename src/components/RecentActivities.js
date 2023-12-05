@@ -12,6 +12,36 @@ const RecentActivities = () => {
         <tr>
             <th>
               <p>
+                <b> 29.11.2023 </b>
+              </p>
+            </th>
+            <td>
+              <p>
+                Workshop on building bridges between data visualisation and VR/3D experiences at the event &nbsp;
+                <a href="https://www.virtuelle-lebenswelten.de/blog-post/how-to-represent-the-virtual-29-11-2023">
+                How to Represent the Virtual?
+                </a>&nbsp;at the division SFB 1567 Virtuelle Lebenswelten at Ruhr-Universität Bochum
+              </p>
+            </td>
+          </tr>
+        <tr>
+            <th>
+              <p>
+                <b> 14.11.2023 </b>
+              </p>
+            </th>
+            <td>
+              <p>
+                Lecture during&nbsp;
+                <a href="https://hdsm.hypotheses.org/1739">
+                Advanced Seminar Modern History/History of Technology
+                </a>&nbsp;at the division Humanities Data Science and Technology at TU Darmstadt
+              </p>
+            </td>
+          </tr>
+        <tr>
+            <th>
+              <p>
                 <b> 05.10.2023 </b>
               </p>
             </th>
@@ -24,7 +54,9 @@ const RecentActivities = () => {
               </p>
             </td>
           </tr>
-          <tr>
+        </table>
+        <table>
+        <tr>
             <th>
               <p>
                 <b>06.09.2023</b>
@@ -39,7 +71,7 @@ const RecentActivities = () => {
               </p>
             </td>
           </tr>
-          <tr>
+        <tr>
             <th>
               <p>
                 <b> 17.04.2023 - 21.04.2023 </b>
@@ -71,55 +103,7 @@ const RecentActivities = () => {
               </p>
             </td>
           </tr>
-        
-        </table>
-        <table>
-        <tr>
-            <th>
-              <p>
-                <b> 13.02.2023 </b>
-              </p>
-            </th>
-            <td>
-              <p>
-                Lecture/Workshop on&nbsp;
-                <a href="https://journal.culanth.org/index.php/ca/article/view/ca29.2.09">
-                  Writing the Implosion
-                </a>
-                &nbsp;during the course 'Physical Interaction Design and
-                Prototyping' at Linköping University.
-              </p>
-            </td>
-          </tr>
-          <tr>
-            <th>
-              <p>
-                {" "}
-                <b> 31.01.2023 </b>
-              </p>
-            </th>
-            <p>
-              <td>
-                Workshop with Lauren Klein's project team <b>Data by Design</b>{" "}
-                to explore different forms of labour that go into the project.
-              </td>
-            </p>
-          </tr>
-          <tr>
-            <th>
-              <p>
-                <b> 10.01.2023- 13.01.2023 </b>
-              </p>
-            </th>
-            <td>
-              <p>
-                Student Volunteer for the PC meeting during&nbsp;
-                <a href="https://chi2023.acm.org/">
-                  ACM CHI Conference on Human Factors in Computing Systems 2023
-                </a>
-              </p>
-            </td>
-          </tr>
+
         </table>
       </RecentActivitiesSlider>
     </TABLE>
