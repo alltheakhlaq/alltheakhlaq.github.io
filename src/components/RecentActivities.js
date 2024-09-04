@@ -9,7 +9,63 @@ const RecentActivities = () => {
       <h2>Recent activities</h2>
       <RecentActivitiesSlider>
         <table>
-        <tr>
+          <tr>
+            <th>
+              <p>
+                <b> 01.03.2024 - Present </b>
+              </p>
+            </th>
+            <td>
+              <p>
+                Organising and facilitating series of internal workshops, as
+                part of the project&nbsp;
+                <a href="https://www.museumfuernaturkunde.berlin/en/science/virtual-access-fossil-and-archival-material-german-tendaguru-expedition-1909-1913">
+                  Virtual access to fossil and archival material from the German
+                  Tendaguru Expedition (1909-1913)
+                </a>
+                , in order to discuss just representation of musuem data of
+                colonial nature
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <th>
+              <p>
+                <b> 10.07.2024 - 11.07.2024 </b>
+              </p>
+            </th>
+            <td>
+              <p>
+                Organised and facilitated workshop, titled&nbsp;
+                <a href="https://www.museumfuernaturkunde.berlin/en/science/virtual-access-fossil-and-archival-material-german-tendaguru-expedition-1909-1913">
+                  Thinking Through Tendaguru Dinosaurs
+                </a>
+                , with Tanzanian Scholars in order to discuss highliting
+                colonial influences in museum data
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <th>
+              <p>
+                <b> 28.02.2024 </b>
+              </p>
+            </th>
+            <td>
+              <p>
+                Talk during the event series 'Kolloquium Provenienzforschung' on
+                the topic&nbsp;
+                <a href="https://kulturgutverluste.de/en/eventdocumentation/power-and-agency-data-infrastructures-museum-and-archival-collections-colloquium">
+                  Power and Agency in Data Infrastructures of Museum and
+                  Archival Collections
+                </a>
+                &nbsp;at German Lost Art Foundation
+              </p>
+            </td>
+          </tr>
+        </table>
+        <table>
+          <tr>
             <th>
               <p>
                 <b> 29.11.2023 </b>
@@ -17,14 +73,17 @@ const RecentActivities = () => {
             </th>
             <td>
               <p>
-                Workshop on building bridges between data visualisation and VR/3D experiences at the event &nbsp;
+                Workshop on building bridges between data visualisation and
+                VR/3D experiences at the event &nbsp;
                 <a href="https://www.virtuelle-lebenswelten.de/blog-post/how-to-represent-the-virtual-29-11-2023">
-                How to Represent the Virtual?
-                </a>&nbsp;at the division SFB 1567 Virtuelle Lebenswelten at Ruhr-Universität Bochum
+                  How to Represent the Virtual?
+                </a>
+                &nbsp;at the division SFB 1567 Virtuelle Lebenswelten at
+                Ruhr-Universität Bochum
               </p>
             </td>
           </tr>
-        <tr>
+          <tr>
             <th>
               <p>
                 <b> 14.11.2023 </b>
@@ -34,12 +93,14 @@ const RecentActivities = () => {
               <p>
                 Lecture during&nbsp;
                 <a href="https://hdsm.hypotheses.org/1739">
-                Advanced Seminar Modern History/History of Technology
-                </a>&nbsp;at the division Humanities Data Science and Technology at TU Darmstadt
+                  Advanced Seminar Modern History/History of Technology
+                </a>
+                &nbsp;at the division Humanities Data Science and Technology at
+                TU Darmstadt
               </p>
             </td>
           </tr>
-        <tr>
+          <tr>
             <th>
               <p>
                 <b> 05.10.2023 </b>
@@ -49,61 +110,12 @@ const RecentActivities = () => {
               <p>
                 Keynote at&nbsp;
                 <a href="https://forge23.uni-tuebingen.de/">
-                Forschungsdaten in den Geisteswissenschaften (FORGE) 2023
-                </a>.
-              </p>
-            </td>
-          </tr>
-        </table>
-        <table>
-        <tr>
-            <th>
-              <p>
-                <b>06.09.2023</b>
-              </p>
-            </th>
-            <td>
-              <p>
-                Presentation titled <b>'Intersectional Feminist Perspectives on Digital Museum Collections through Counterdata Visualisations'</b> at&nbsp;
-                <a href="https://hdsm.hypotheses.org/1104">
-                Connecting, co-designing and engaging with digital collections and infrastructures: challenges and case studies
-                </a>.
-              </p>
-            </td>
-          </tr>
-        <tr>
-            <th>
-              <p>
-                <b> 17.04.2023 - 21.04.2023 </b>
-              </p>
-            </th>
-            <td>
-              <p>
-                Partcipation in&nbsp;
-                <a href="https://www.mkg-hamburg.de/en/neo-lab">
-                  Data Exploration Sprint
+                  Forschungsdaten in den Geisteswissenschaften (FORGE) 2023
                 </a>
-                &nbsp;at Museum für Kunst und Gewerbe Hamburg.
+                .
               </p>
             </td>
           </tr>
-          <tr>
-            <th>
-              <p>
-                <b> 17.03.2023 </b>
-              </p>
-            </th>
-            <td>
-              <p>
-                Participation in panel on Digitalisierung kulturellen Erbes und postkoloniale
-                Perspektiven during&nbsp;
-                <a href="https://dhd2023.dig-hum.de/page/programmubersich">
-                  DhD 2023.
-                </a>
-              </p>
-            </td>
-          </tr>
-
         </table>
       </RecentActivitiesSlider>
     </TABLE>

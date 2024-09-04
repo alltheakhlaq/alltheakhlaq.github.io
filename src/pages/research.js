@@ -115,6 +115,23 @@ const Research = () => {
         <hr></hr>
         <h1 id="t&l">Talks & Lectures</h1>
         <p>
+          <b>Workshop: </b> Organised and facilitated workshop, titled&nbsp;
+          <a href="https://www.museumfuernaturkunde.berlin/en/science/virtual-access-fossil-and-archival-material-german-tendaguru-expedition-1909-1913">
+            Thinking Through Tendaguru Dinosaurs
+          </a>
+          , with Tanzanian Scholars in order to discuss highliting colonial
+          influences in museum data
+        </p>
+        <p>
+          <b>Talk: </b> During the event series 'Kolloquium Provenienzforschung'
+          on the topic&nbsp;
+          <a href="https://kulturgutverluste.de/en/eventdocumentation/power-and-agency-data-infrastructures-museum-and-archival-collections-colloquium">
+            Power and Agency in Data Infrastructures of Museum and Archival
+            Collections
+          </a>
+          &nbsp;at German Lost Art Foundation
+        </p>
+        <p>
           <b>Lecture: </b> During&nbsp;
           <a href="https://hdsm.hypotheses.org/1739">
             Advanced Seminar Modern History/History of Technology
@@ -123,11 +140,13 @@ const Research = () => {
           Darmstadt
         </p>
         <p>
-        <b>Keynote: </b> Titled 'Intersectional Feminist and Anti-colonial Perspectives on Museum Data' at&nbsp;
-                <a href="https://forge23.uni-tuebingen.de/">
-                Forschungsdaten in den Geisteswissenschaften (FORGE) 2023
-                </a>.
-              </p>
+          <b>Keynote: </b> Titled 'Intersectional Feminist and Anti-colonial
+          Perspectives on Museum Data' at&nbsp;
+          <a href="https://forge23.uni-tuebingen.de/">
+            Forschungsdaten in den Geisteswissenschaften (FORGE) 2023
+          </a>
+          .
+        </p>
         <p>
           {" "}
           <b>Panel: </b> Digitalisierung kulturellen Erbes und postkoloniale
