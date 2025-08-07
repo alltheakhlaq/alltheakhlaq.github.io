@@ -26,11 +26,11 @@ const Index = () => {
           I grew up in Pakistan. I have been living in Germany for past couple
           of years.<br></br>I am a &nbsp;&nbsp;
           <StyledLink pathname={location.pathname} to="/research">
-            researcher
+            researcher and a museum practitioner.
           </StyledLink>
-          &nbsp;&nbsp; and a&nbsp;{" "}
+          &nbsp;&nbsp; Sometimes, I also delve into&nbsp;{" "}
           <StyledLink pathname={location.pathname} to="/design">
-            designer
+            designing
           </StyledLink>
           .<br></br>
         </h2>
@@ -38,13 +38,17 @@ const Index = () => {
         <p>
           I'm currently working at Museum für Naturkunde Berlin on the project
           'Virtual access to fossil and archival material from the German
-          Tendaguru Expedition (1909-1913)'. Along with that I am pursuing a PhD
-          at the Chair of Humanities Data Science and Methodology at TU
-          Darmstadt. My research lies at the intersection of critical digital
-          cultural heritage and data visualisation. I’ve been trying to address
-          biases in museum collection data by inspecting it through an
-          intersectional feminist and anti-colonial lens.
+          Tendaguru Expedition (1909-1913)'. Along with that, I also am pursuing
+          a PhD at the Chair of Humanities Data Science and Methodology at TU
+          Darmstadt.
         </p>{" "}
+        <p>
+          My goal is to apply social justice frameworks to digital museum
+          collections. In my museum work and my research, I inspect structures
+          of authoritative power in museum collection data and the resistance to
+          these oppressive structures, by inspecting it through an
+          intersectional feminist and anti-colonial lens.
+        </p>
         <p>
           <a href="/aboutme">more about me</a>
         </p>

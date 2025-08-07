@@ -12,10 +12,12 @@ const aboutme = () => {
         <hr></hr>
         <img height={395} src={ME} alt="" />
         <p>
-          Hey! I'm Sara Akhlaq. I am a researcher and with my research I have
-          always tried to engage in academic activisim. I have also always
-          employed my web and graphic design skills in my academic work as well
-          - that's why I believe I qualify as a researcher and a designer.
+          Hey! I'm Sara Akhlaq. I am a researcher and a museum practitioner.
+          With my research I have always tried to engage in academic activism
+          (although lately I have been having a hard time accepting the validity
+          of this term). I have also always employed my web and graphic design
+          skills in my academic work, as an attempt to challenge power through
+          alternative representations of museum collections.
         </p>
         <p>
           I did masters in&nbsp;

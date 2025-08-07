@@ -12,6 +12,67 @@ const RecentActivities = () => {
           <tr>
             <th>
               <p>
+                <b>01.02.2025 - 30.11.2025</b>
+              </p>
+            </th>
+            <td>
+              <p>
+                Awarded{" "}
+                <a href="https://www.museumfuernaturkunde.berlin/en/museum/today/museum/themuseumslab">
+                  {" "}
+                  TheMuseumLab
+                </a>{" "}
+                2025 fellowship. Theme of this year is 'Colonialism and
+                Resistance'.
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <th>
+              <p>
+                <b>03.03.2025</b>
+              </p>
+            </th>
+            <td>
+              <p>
+                New publication: Díez Díaz, V., Akhlaq, S., Kaiser, K. et al.
+                (2025). Nat. Rev. Biodivers. 1, 145–146 (2025).{" "}
+                <a href="https://www.nature.com/articles/s44358-025-00031-2">
+                  {" "}
+                  Digitization as a research methodology in colonial natural
+                  history collections.
+                </a>{" "}
+                https://doi.org/10.1038/s44358-025-00031-2
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <th>
+              <p>
+                <b>22.12.2024/2025</b>
+              </p>
+            </th>
+            <td>
+              <p>
+                New Publication: Depraetere, M., Akhlaq, S., Díaz, V.D.,
+                Heumann, I., Schwarz, D. (2025).{" "}
+                <a href="https://link.springer.com/chapter/10.1007/978-3-031-78590-0_8#citeas">
+                  Virtual Access to Fossil & Archival Material from the German
+                  Tendaguru Expedition (1909–1913): More Than 100 years of
+                  Data-Meta-paradata Management for Improved Standardisation.
+                </a>
+                In: Ioannides, M., Baker, D., Agapiou, A., Siegkas, P. (eds) 3D
+                Research Challenges in Cultural Heritage V. Lecture Notes in
+                Computer Science, vol 15190. Springer, Cham.
+                https://doi.org/10.1007/978-3-031-78590-0_8
+              </p>
+            </td>
+          </tr>
+        </table>
+        <table>
+          <tr>
+            <th>
+              <p>
                 <b> 01.03.2024 - Present </b>
               </p>
             </th>
@@ -60,59 +121,6 @@ const RecentActivities = () => {
                   Archival Collections
                 </a>
                 &nbsp;at German Lost Art Foundation
-              </p>
-            </td>
-          </tr>
-        </table>
-        <table>
-          <tr>
-            <th>
-              <p>
-                <b> 29.11.2023 </b>
-              </p>
-            </th>
-            <td>
-              <p>
-                Workshop on building bridges between data visualisation and
-                VR/3D experiences at the event &nbsp;
-                <a href="https://www.virtuelle-lebenswelten.de/blog-post/how-to-represent-the-virtual-29-11-2023">
-                  How to Represent the Virtual?
-                </a>
-                &nbsp;at the division SFB 1567 Virtuelle Lebenswelten at
-                Ruhr-Universität Bochum
-              </p>
-            </td>
-          </tr>
-          <tr>
-            <th>
-              <p>
-                <b> 14.11.2023 </b>
-              </p>
-            </th>
-            <td>
-              <p>
-                Lecture during&nbsp;
-                <a href="https://hdsm.hypotheses.org/1739">
-                  Advanced Seminar Modern History/History of Technology
-                </a>
-                &nbsp;at the division Humanities Data Science and Technology at
-                TU Darmstadt
-              </p>
-            </td>
-          </tr>
-          <tr>
-            <th>
-              <p>
-                <b> 05.10.2023 </b>
-              </p>
-            </th>
-            <td>
-              <p>
-                Keynote at&nbsp;
-                <a href="https://forge23.uni-tuebingen.de/">
-                  Forschungsdaten in den Geisteswissenschaften (FORGE) 2023
-                </a>
-                .
               </p>
             </td>
           </tr>

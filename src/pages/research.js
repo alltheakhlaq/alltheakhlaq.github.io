@@ -74,6 +74,29 @@ const Research = () => {
         <hr></hr>
         <h1 id="pub">Publications</h1>
         <p>
+          Díez Díaz, V., Akhlaq, S., Kaiser, K. et al. (2025). Nat. Rev.
+          Biodivers. 1, 145–146 (2025).{" "}
+          <a href="https://www.nature.com/articles/s44358-025-00031-2">
+            {" "}
+            Digitization as a research methodology in colonial natural history
+            collections.
+          </a>{" "}
+          https://doi.org/10.1038/s44358-025-00031-2
+        </p>
+        <p>
+          Depraetere, M., Akhlaq, S., Díaz, V.D., Heumann, I., Schwarz, D.
+          (2025).{" "}
+          <a href="https://link.springer.com/chapter/10.1007/978-3-031-78590-0_8#citeas">
+            Virtual Access to Fossil & Archival Material from the German
+            Tendaguru Expedition (1909–1913): More Than 100 years of
+            Data-Meta-paradata Management for Improved Standardisation.
+          </a>{" "}
+          In: Ioannides, M., Baker, D., Agapiou, A., Siegkas, P. (eds) 3D
+          Research Challenges in Cultural Heritage V. Lecture Notes in Computer
+          Science, vol 15190. Springer, Cham.
+          https://doi.org/10.1007/978-3-031-78590-0_8
+        </p>
+        <p>
           Sara Akhlaq, Arran Ridley, Mark-Jan Bludau and Marian Dörk.{" "}
           <a href="https://zenodo.org/record/6594779">
             Data Montage: Towards Coherence in Multimodal Data Representation.
