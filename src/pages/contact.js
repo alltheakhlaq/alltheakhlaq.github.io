@@ -26,12 +26,6 @@ const contact = () => {
         <b>
           <p>Email: saara.akhlaq@gmail.com</p>
         </b>
-        <b>
-          <p>
-            Twitter:{" "}
-            <a href="https://twitter.com/alltheakhlaq">@alltheakhlaq</a>
-          </p>
-        </b>
         <p>
           Especially, if you are a woman of color, I am particularly keen to
           support you in whatever way I can so don't hesitate contacting me!

@@ -23,8 +23,8 @@ const Index = () => {
           .
         </h3>
         <h2>
-          I grew up in Pakistan. I have been living in Germany for past couple
-          of years.<br></br>I am a &nbsp;&nbsp;
+          I grew up in Pakistan. I recently moved to London after living in
+          Germany for past couple of years.<br></br>I am a &nbsp;&nbsp;
           <StyledLink pathname={location.pathname} to="/research">
             researcher and a museum practitioner.
           </StyledLink>
@@ -36,11 +36,11 @@ const Index = () => {
         </h2>
         <hr></hr>
         <p>
-          I'm currently working at Museum für Naturkunde Berlin on the project
+          {/* I'm currently working at Museum für Naturkunde Berlin on the project
           'Virtual access to fossil and archival material from the German
-          Tendaguru Expedition (1909-1913)'. Along with that, I also am pursuing
-          a PhD at the Chair of Humanities Data Science and Methodology at TU
-          Darmstadt.
+          Tendaguru Expedition (1909-1913)'. Along with that,  */}
+          I am currently pursuing a PhD at the Chair of Humanities Data Science
+          and Methodology at TU Darmstadt.
         </p>{" "}
         <p>
           My goal is to apply social justice frameworks to digital museum

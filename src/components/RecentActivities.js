@@ -12,6 +12,44 @@ const RecentActivities = () => {
           <tr>
             <th>
               <p>
+                <b>01.02.2026</b>
+              </p>
+            </th>
+            <td>
+              <p>
+                New publication: Akhlaq, S., Bates, I. E., & Depraetere, M.
+                (2026). Making the Labour Visible Behind the Tendaguru Dinosaur
+                Collection Through Wikidata. Journal of Open Humanities Data,
+                12: 20, pp. 1–10. DOI:{" "}
+                <a href=" https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.476">
+                  https://doi.org/10.5334/johd.476
+                </a>
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <th>
+              <p>
+                <b>01.07.2025</b>
+              </p>
+            </th>
+            <td>
+              <p>
+                New publication: Díez Díaz, V., Akhlaq, S., Depraetere, M.,
+                Heumann, I., Schwarz, D. (2025). Risks and Responsibilities: The
+                German Tendaguru Collection as Cultural Heritage and Its 3D
+                Digitisation. In: Ioannides, M., Issini, G., Oliveira, D. (eds)
+                3D Research Challenges in Cultural Heritage IV. Lecture Notes in
+                Computer Science, vol 13577. Springer, Cham. . DOI:{" "}
+                <a href=" https://link.springer.com/chapter/10.1007/978-3-031-93753-8_5?utm_source=researchgate.net&utm_medium=article#citeas">
+                  https://doi.org/10.1007/978-3-031-93753-8_5
+                </a>
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <th>
+              <p>
                 <b>01.02.2025 - 30.11.2025</b>
               </p>
             </th>
@@ -46,6 +84,8 @@ const RecentActivities = () => {
               </p>
             </td>
           </tr>
+        </table>
+        <table>
           <tr>
             <th>
               <p>
@@ -68,12 +108,10 @@ const RecentActivities = () => {
               </p>
             </td>
           </tr>
-        </table>
-        <table>
           <tr>
             <th>
               <p>
-                <b> 01.03.2024 - Present </b>
+                <b> 01.03.2024 - 31.10.2025 </b>
               </p>
             </th>
             <td>
@@ -103,24 +141,6 @@ const RecentActivities = () => {
                 </a>
                 , with Tanzanian Scholars in order to discuss highliting
                 colonial influences in museum data
-              </p>
-            </td>
-          </tr>
-          <tr>
-            <th>
-              <p>
-                <b> 28.02.2024 </b>
-              </p>
-            </th>
-            <td>
-              <p>
-                Talk during the event series 'Kolloquium Provenienzforschung' on
-                the topic&nbsp;
-                <a href="https://kulturgutverluste.de/en/eventdocumentation/power-and-agency-data-infrastructures-museum-and-archival-collections-colloquium">
-                  Power and Agency in Data Infrastructures of Museum and
-                  Archival Collections
-                </a>
-                &nbsp;at German Lost Art Foundation
               </p>
             </td>
           </tr>

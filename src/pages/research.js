@@ -32,12 +32,6 @@ const Research = () => {
         <hr></hr>
         <h1>Currently</h1>
         <p>
-          <b>Wissenschaftlicher Mitarbeiter (Research Associate)</b>
-          <br></br> Since October 2023 <br></br>Museum für Naturkunde, Berlin
-          <br></br>
-          Berlin, Germany
-        </p>
-        <p>
           <b>PhD student </b>
           <br></br> Since April 2023 <br></br>Chair of Humanities Data Science
           and Methodology, TU Darmstadt
@@ -47,6 +41,13 @@ const Research = () => {
         <hr></hr>
         <h1 id="xp">Past Research Experience</h1>
         <p>
+          <p>
+            <b>Wissenschaftlicher Mitarbeiter (Research Associate)</b>
+            <br></br> September 2023 - October 2025 <br></br>Museum für
+            Naturkunde, Berlin
+            <br></br>
+            Berlin, Germany
+          </p>
           <b>Researcher </b>
           <br></br> August 2022 - April 2023 <br></br>Linköping University
           <br></br>
@@ -73,6 +74,24 @@ const Research = () => {
         </p>
         <hr></hr>
         <h1 id="pub">Publications</h1>
+        <p>
+          Akhlaq, S., Bates, I. E., & Depraetere, M. (2026). Making the Labour
+          Visible Behind the Tendaguru Dinosaur Collection Through Wikidata.
+          Journal of Open Humanities Data, 12: 20, pp. 1–10. DOI:{" "}
+          <a href=" https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.476">
+            https://doi.org/10.5334/johd.476
+          </a>
+        </p>
+        <p>
+          Díez Díaz, V., Akhlaq, S., Depraetere, M., Heumann, I., Schwarz, D.
+          (2025). Risks and Responsibilities: The German Tendaguru Collection as
+          Cultural Heritage and Its 3D Digitisation. In: Ioannides, M., Issini,
+          G., Oliveira, D. (eds) 3D Research Challenges in Cultural Heritage IV.
+          Lecture Notes in Computer Science, vol 13577. Springer, Cham. DOI:{" "}
+          <a href=" https://link.springer.com/chapter/10.1007/978-3-031-93753-8_5?utm_source=researchgate.net&utm_medium=article#citeas">
+            https://doi.org/10.1007/978-3-031-93753-8_5
+          </a>
+        </p>
         <p>
           Díez Díaz, V., Akhlaq, S., Kaiser, K. et al. (2025). Nat. Rev.
           Biodivers. 1, 145–146 (2025).{" "}
