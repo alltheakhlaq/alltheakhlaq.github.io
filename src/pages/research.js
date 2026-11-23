@@ -32,12 +32,16 @@ const Research = () => {
         <hr></hr>
         <h1>Currently</h1>
         <p>
+          I am currently on maternity leave and taking a break from all academic
+          activities
+        </p>
+        {/* <p>
           <b>PhD student </b>
           <br></br> Since April 2023 <br></br>Chair of Humanities Data Science
           and Methodology, TU Darmstadt
           <br></br>
           Darmstadt, Germany
-        </p>
+        </p> */}
         <hr></hr>
         <h1 id="xp">Past Research Experience</h1>
         <p>
