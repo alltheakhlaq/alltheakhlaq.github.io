@@ -37,8 +37,8 @@ const Index = () => {
         <hr></hr>
         <p>
           <p>
-            I am currently on maternity leave and taking a break from all
-            academic activities
+            I am currently on maternity leave, and taking a break from all
+            academic activities.
           </p>
           {/* I'm currently working at Museum für Naturkunde Berlin on the project
           'Virtual access to fossil and archival material from the German
@@ -53,7 +53,6 @@ const Index = () => {
           these oppressive structures, by inspecting it through an
           intersectional feminist and anti-colonial lens. */}
         </p>
-        .<br></br>
         <p>
           <a href="/aboutme">more about me</a>
         </p>

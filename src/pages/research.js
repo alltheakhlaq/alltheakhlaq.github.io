@@ -33,7 +33,7 @@ const Research = () => {
         <h1>Currently</h1>
         <p>
           I am currently on maternity leave and taking a break from all academic
-          activities
+          activities.
         </p>
         {/* <p>
           <b>PhD student </b>
