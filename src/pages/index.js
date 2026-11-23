@@ -38,12 +38,12 @@ const Index = () => {
         <p>
           {/* I'm currently working at Museum für Naturkunde Berlin on the project
           'Virtual access to fossil and archival material from the German
-          Tendaguru Expedition (1909-1913)'. Along with that,  */}
+          Tendaguru Expedition (1909-1913)'. Along with that,  
           I am currently pursuing a PhD at the Chair of Humanities Data Science
-          and Methodology at TU Darmstadt.
+          and Methodology at TU Darmstadt. */}
         </p>{" "}
         <p>
-          {/* My goal is to apply social justice frameworks to digital museum
+         {/* My goal is to apply social justice frameworks to digital museum
           collections. In my museum work and my research, I inspect structures
           of authoritative power in museum collection data and the resistance to
           these oppressive structures, by inspecting it through an
