@@ -53,6 +53,7 @@ const Index = () => {
           these oppressive structures, by inspecting it through an
           intersectional feminist and anti-colonial lens. */}
         </p>
+        .<br></br>
         <p>
           <a href="/aboutme">more about me</a>
         </p>
