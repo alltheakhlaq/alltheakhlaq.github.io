@@ -43,11 +43,11 @@ const Index = () => {
           and Methodology at TU Darmstadt.
         </p>{" "}
         <p>
-          My goal is to apply social justice frameworks to digital museum
+          {/* My goal is to apply social justice frameworks to digital museum
           collections. In my museum work and my research, I inspect structures
           of authoritative power in museum collection data and the resistance to
           these oppressive structures, by inspecting it through an
-          intersectional feminist and anti-colonial lens.
+          intersectional feminist and anti-colonial lens. */}
         </p>
         <p>
           <a href="/aboutme">more about me</a>
